@@ -1,1 +1,5 @@
-# sql-performance-case
+* Problem
+* Dataset
+* Approach
+* SQL decisions
+* Result
